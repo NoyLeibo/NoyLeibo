@@ -22,7 +22,7 @@ I specialize in **React**, **Node.js**, and **TypeScript**, and love working on 
 - 🎥 [MyInstaStory](https://www.myinstastory.com) – A full social media app inspired by Instagram  
   `React • Node.js • TypeScript • MongoDB • Auth • Realtime Feed`
 
-- 🛠️ [More projects…](https://github.com/NoyLeibo)
+- 🛠️ [More projects…](https://github.com/NoyLeibo?tab=repositories)
 
 ---
 
