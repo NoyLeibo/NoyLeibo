@@ -8,7 +8,7 @@
 
 ### 💼 About Me
 
-I'm a Full Stack Developer with 1.5+ years of hands-on experience in building modern, scalable web and mobile applications.  
+I'm a Full Stack Developer with experience in building modern, scalable web and mobile applications.  
 I specialize in **React**, **Node.js**, and **TypeScript**, and love working on real-world products that users enjoy.
 
 - 🔧 Built full-featured platforms including social networks and payment systems  
