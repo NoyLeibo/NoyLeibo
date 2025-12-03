@@ -17,19 +17,6 @@ I specialize in **React**, **Node.js**, and **TypeScript**, and love working on 
 
 ---
 
-### 🌟 Featured Projects
-
-- 🎥 [MyInstaStory](https://www.myinstastory.com) – A full social media app inspired by Instagram  
-  `React • Node.js • TypeScript • MongoDB • Auth • Realtime Feed`
-
-- 🎥 [TubeApp](https://github.com/NoyLeibo/TubeApp) – A mobile app inspired by YouTube, built using React Native as a self-learning project.  
-  Features dynamic video fetching, responsive UI, and state management via Redux.  
-  `React Native • Redux • Hooks • YouTube API`
-
-- 🛠️ [More projects…](https://github.com/NoyLeibo?tab=repositories)
-
----
-
 ### 🛠️ Tech Stack
 
 ![React](https://img.shields.io/badge/-React-black?logo=react)
